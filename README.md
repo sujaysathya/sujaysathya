@@ -22,6 +22,9 @@ I'm highly interested in contributing to any open-source project I can. If you w
  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
  </p>
+ 
+ ## GitHub stats
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sujaysathya)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sujaysathya/sujaysathya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
