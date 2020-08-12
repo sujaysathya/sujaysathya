@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<a href="https://github.com/sujaysathya">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujaysathya&show_icons=true" alt="Sujay Sathya's GitHub Stats" />
+</a>
 <!--
 **sujaysathya/sujaysathya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
